@@ -513,6 +513,11 @@ border-color: #e154f3;
   /* border: 1px solid #eee; */
   width: 100%;
 }
+
+.flex-item > .furlex{
+  width: 47%;
+}
+
 .flex-item.shadow {
   box-shadow: 0 1px 3px rgba(8, 33, 30, 0.5);
 }
